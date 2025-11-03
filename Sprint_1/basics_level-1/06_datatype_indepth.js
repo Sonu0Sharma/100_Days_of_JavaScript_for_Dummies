@@ -1,0 +1,1 @@
+// majory datatypes are only of 2 category --> primitive / non-premitive
