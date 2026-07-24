@@ -22,6 +22,8 @@ function vovelCount (msg){
 
 vovelCount(str1)
 
+
+// do same with arrow function
 const arrowVovelCount = (msg) => {
     let count = 0;
 
