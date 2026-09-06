@@ -1,0 +1,18 @@
+body{
+    background-color: teal;
+}
+
+#heading_1{
+    color: rgb(218, 160, 149);
+}
+
+.headings{
+    color: whitesmoke;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: rgb(254, 102, 102);
+    text-decoration-thickness: 2px;
+}
+p{
+    color: rgb(255, 252, 91);
+}

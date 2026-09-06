@@ -1,0 +1,17 @@
+
+.box{
+    color: teal;
+    font-size: 1.5rem;
+
+    margin: 10px;
+    height: 200px;
+    width: 200px;
+
+    display: flex;
+    justify-content: center; /* Horizontal */
+    align-items: center;     /* Vertical */
+
+    border: 4px ,dashed, teal;
+    border-radius: 20%;
+    
+}

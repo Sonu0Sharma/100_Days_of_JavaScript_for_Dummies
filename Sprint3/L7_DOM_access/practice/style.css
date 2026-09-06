@@ -1,0 +1,21 @@
+body{
+    background-color: teal;
+    box-sizing: border-box;
+}
+
+.box{
+    color: whitesmoke;
+    font-size: 1.5rem;
+
+    margin: 10px;
+    height: 200px;
+    width: 200px;
+
+    display: flex;
+    justify-content: center; /* Horizontal */
+    align-items: center;     /* Vertical */
+
+    border: 3px ,dotted, whitesmoke;
+    border-radius: 20%;
+    
+}

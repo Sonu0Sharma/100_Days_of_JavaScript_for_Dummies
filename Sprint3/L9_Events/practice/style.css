@@ -1,0 +1,9 @@
+.lightMode{
+    background-color: aliceblue;
+    color: rgb(0, 0, 0);
+}
+
+.darkMode{
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+}

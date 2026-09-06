@@ -1,0 +1,13 @@
+.para{
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.primaryColor{
+    color: whitesmoke;
+}
+
+.primaryFillColor{
+    background-color: teal;
+}
